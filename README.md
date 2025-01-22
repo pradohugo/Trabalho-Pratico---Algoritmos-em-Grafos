@@ -1,1 +1,35 @@
-# Trabalho-Pr-tico---Algoritmos-em-Grafos
+# Trabalho-Pr-tico---Algoritmos-em-Grafos# **Otimização de Rotas com Variação do Problema do Caixeiro Viajante**
+
+## **Descrição**
+Este projeto aborda uma variação do Problema do Caixeiro Viajante (TSP - Traveling Salesman Problem), com o objetivo de minimizar a maior distância entre dois pontos consecutivos no percurso. A aplicação prática inclui otimização de rotas de transporte público para melhorar acessibilidade e eficiência.
+
+O programa recebe como entrada:
+- Um arquivo para gravar o percurso final.
+- Pontos a serem visitados.
+
+Como saída:
+- Grava o percurso otimizado no arquivo.
+- Imprime a maior distância entre dois pontos consecutivos na tela.
+
+## **Funcionalidades**
+- Solução inicial baseada na Heurística do Vizinho Mais Próximo combinada com 2-opt.
+- Implementação do método GRASP (Greedy Randomized Adaptive Search Procedure) para melhorar os resultados.
+- Geração de percursos otimizados com foco em minimizar distâncias máximas consecutivas.
+
+## **Tecnologias Utilizadas**
+- Linguagem: **C++**
+- Bibliotecas:
+  - `<iostream>`
+  - `<vector>`
+  - `<cmath>`
+  - `<limits>`
+  - `<fstream>`
+  - `<algorithm>`
+  - `<chrono>`
+  - `<random>`
+
+## **Como Executar**
+1. **Clonar o repositório:**
+   ```bash
+   git clone https://github.com/pradohugo/Trabalho-Pr-tico---Algoritmos-em-Grafos.git
+   cd Trabalho-Pr-tico---Algoritmos-em-Grafos
