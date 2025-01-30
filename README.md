@@ -27,9 +27,3 @@ Como saída:
   - `<algorithm>`
   - `<chrono>`
   - `<random>`
-
-## **Como Executar**
-1. **Clonar o repositório:**
-   ```bash
-   git clone https://github.com/pradohugo/Trabalho-Pr-tico---Algoritmos-em-Grafos.git
-   cd Trabalho-Pr-tico---Algoritmos-em-Grafos
