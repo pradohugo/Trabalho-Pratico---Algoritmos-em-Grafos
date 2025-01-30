@@ -11,9 +11,8 @@ Como saída:
 - Grava o percurso otimizado no arquivo.
 - Imprime a maior distância entre dois pontos consecutivos na tela.
 
-## **Funcionalidades**
-- Solução baseada em uma implementação do método GRASP (Greedy Randomized Adaptive Search Procedure) para melhorar os resultados.
-- Geração de percursos otimizados com foco em minimizar distâncias máximas consecutivas.
+## **Funcionalidade**
+- Solução baseada em uma implementação do método GRASP (Greedy Randomized Adaptive Search Procedure), retornando um percurso em que a maior distância entre dois pontos do caminho seja mínima.
 
 ## **Tecnologias Utilizadas**
 - Linguagem: **C++**
