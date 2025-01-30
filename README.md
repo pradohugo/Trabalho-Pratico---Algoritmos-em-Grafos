@@ -28,7 +28,7 @@ Como saída:
  
  ## **Como utilizar**
 
-- git clone https://github.com/pradohugo/Trabalho-Pratico-Algoritmos-em-Grafos.git.
+- git clone https://github.com/pradohugo/Trabalho-Pratico---Algoritmos-em-Grafos.git.
 - cd Trabalho-Pratico-Algoritmos-em-Grafos.
 - g++ -o TrabalhoFinal.exe TrabalhoFinal.cpp.
 - TrabalhoFinal.exe saida.txt < 01.ins.
