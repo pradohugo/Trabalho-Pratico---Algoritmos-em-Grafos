@@ -1,4 +1,4 @@
-# Trabalho-Pr-tico---Algoritmos-em-Grafos# **Otimização de Rotas com Variação do Problema do Caixeiro Viajante**
+# Trabalho-Pratico---Algoritmos-em-Grafos# **Otimização de Rotas com Variação do Problema do Caixeiro Viajante**
 
 ## **Descrição**
 Este projeto aborda uma variação do Problema do Caixeiro Viajante (TSP - Traveling Salesman Problem), com o objetivo de minimizar a maior distância entre dois pontos consecutivos no percurso. A aplicação prática inclui otimização de rotas de transporte público para melhorar acessibilidade e eficiência.
@@ -12,8 +12,7 @@ Como saída:
 - Imprime a maior distância entre dois pontos consecutivos na tela.
 
 ## **Funcionalidades**
-- Solução inicial baseada na Heurística do Vizinho Mais Próximo combinada com 2-opt.
-- Implementação do método GRASP (Greedy Randomized Adaptive Search Procedure) para melhorar os resultados.
+- Solução baseada em uma implementação do método GRASP (Greedy Randomized Adaptive Search Procedure) para melhorar os resultados.
 - Geração de percursos otimizados com foco em minimizar distâncias máximas consecutivas.
 
 ## **Tecnologias Utilizadas**
